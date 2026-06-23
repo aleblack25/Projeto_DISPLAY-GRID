@@ -2,6 +2,11 @@
 
 Projeto de uma calculadora desenvolvido com **HTML, CSS e JavaScript**, utilizando **CSS Grid** para organizar os botões e a interface.
 
+## 🌐 Projeto Online
+
+🔗 **Acesse a calculadora:**
+[Clique aqui para abrir o projeto](https://seu-usuario.github.io/nome-do-repositorio/)
+
 ## 📋 Funcionalidades
 
 * Adição de números e operadores
@@ -47,11 +52,10 @@ A interface foi inspirada em calculadoras modernas, utilizando:
 1. Clone o repositório:
 
 ```bash
- https://aleblack25.github.io/Projeto_DISPLAY-GRID/
+git  https://aleblack25.github.io/Projeto_DISPLAY-GRID/
 ```
 
 2. Abra a pasta do projeto.
-
 3. Execute o arquivo `index.html` no navegador.
 
 ## 📚 Aprendizados
