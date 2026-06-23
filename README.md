@@ -5,7 +5,7 @@ Projeto de uma calculadora desenvolvido com **HTML, CSS e JavaScript**, utilizan
 ## 🌐 Projeto Online
 
 🔗 **Acesse a calculadora:**
-[Clique aqui para abrir o projeto]](https://aleblack25.github.io/Projeto_DISPLAY-GRID/))
+[Clique aqui para abrir o projeto](https://aleblack25.github.io/Projeto_DISPLAY-GRID/)
 
 ## 📋 Funcionalidades
 
