@@ -47,7 +47,7 @@ A interface foi inspirada em calculadoras modernas, utilizando:
 1. Clone o repositório:
 
 ```bash
-git clone https://aleblack25.github.io/Projeto_DISPLAY-GRID/
+ https://aleblack25.github.io/Projeto_DISPLAY-GRID/
 ```
 
 2. Abra a pasta do projeto.
