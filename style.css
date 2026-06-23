@@ -16,7 +16,7 @@ div {
     background: linear-gradient(191.34deg, #17181A -4.95%, #17181A 103.74%);
     width: 375px;
     height: 568px;
-    border-radius: 35px;
+    border-radius: 40px;
     padding: 20px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -37,5 +37,40 @@ input {
 }
 
 button {
+   font-size: 24px;
+   border: none;
+   margin: 7px;
+   border-radius: 10px;
+   cursor: pointer;
+   color: #ffff;
+}
 
+button:hover {
+    opacity: 0.7;
+    transform: scale(0.95);
+}
+
+
+
+.black-button{
+    background: #303136;
+
+}
+
+.blue-button {
+   background: #005db2;
+}
+
+.equal {
+  background: #1991ff;
+  grid-row: 6/8;
+  grid-column: 4/5;
+}
+
+.gray-button {
+    background: #616161;
+}
+
+.zero {
+    grid-column: 1/3;
 }
